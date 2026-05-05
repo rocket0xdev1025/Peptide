@@ -26164,11 +26164,11 @@ function Aa() {
   return e;
 }
 const R1 = [
-  { href: "/ask-pep", label: "ask pep" },
-  { href: "/database", label: "database" },
-  { href: "/store", label: "pep store" },
-  { href: "/flywheel", label: "flywheel" },
-  { href: "/launch", label: "buy $PEP" },
+  { href: "#", label: "ask pep" },
+  { href: "#", label: "database" },
+  { href: "#", label: "pep store" },
+  { href: "#", label: "flywheel" },
+  { href: "#", label: "buy $PEP" },
 ];
 function I6() {
   const [e, t] = A.useState(!1),
@@ -26227,7 +26227,7 @@ function I6() {
                 )
               ),
               f.jsx("a", {
-                href: "https://t.me/peptideportaleth",
+                href: "https://t.me/Peptide_meme",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 style: {
@@ -26251,7 +26251,7 @@ function I6() {
                 }),
               }),
               f.jsx("a", {
-                href: "https://x.com/peptideeth",
+                href: "https://x.com/Peptide_meme",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 style: {
@@ -26275,7 +26275,7 @@ function I6() {
                 }),
               }),
               f.jsx(Hn, {
-                href: "/cart",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                 children: f.jsxs(W.span, {
                   whileHover: { scale: 1.05 },
                   style: {
@@ -26399,7 +26399,7 @@ function V6() {
             },
             children: [
               f.jsx(Hn, {
-                href: "/launch",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                 children: f.jsx("span", {
                   style: {
                     fontFamily: "'Patrick Hand', cursive",
@@ -26417,7 +26417,7 @@ function V6() {
                 }),
               }),
               f.jsx("a", {
-                href: "https://t.me/peptideportaleth",
+                href: "https://t.me/Peptide_meme",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 style: {
@@ -26435,7 +26435,7 @@ function V6() {
                 children: "Telegram",
               }),
               f.jsx("a", {
-                href: "https://x.com/peptideeth",
+                href: "https://x.com/Peptide_meme",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 style: {
@@ -27905,7 +27905,7 @@ function WN() {
               children: [
                 f.jsx(qN, {}),
                 f.jsxs("button", {
-                  onClick: () => e("/database"),
+                  onClick: () => e("#"),
                   style: {
                     display: "inline-flex",
                     alignItems: "center",
@@ -28063,7 +28063,7 @@ function WN() {
                   },
                   children: [
                     f.jsx("a", {
-                      href: "#",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: f.jsxs("button", {
@@ -28114,7 +28114,7 @@ function WN() {
                       }),
                     }),
                     f.jsx("a", {
-                      href: "https://x.com/peptideeth",
+                      href: "https://x.com/Peptide_meme",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: f.jsxs("button", {
@@ -28744,7 +28744,7 @@ function WN() {
                   f.jsx("div", {
                     style: { display: "flex", gap: 10, flexShrink: 0 },
                     children: f.jsx(Hn, {
-                      href: "/store",
+                      href: "#",
                       children: f.jsx(W.button, {
                         whileHover: { y: -2, boxShadow: "0 5px 0 black" },
                         style: {
@@ -29259,7 +29259,7 @@ function WN() {
                     ],
                   }),
                   f.jsx(Hn, {
-                    href: "/database",
+                    href: "#",
                     children: f.jsx("span", {
                       style: {
                         fontFamily: Fe,
@@ -29498,7 +29498,7 @@ function WN() {
                   style: { display: "flex", gap: 10, flexWrap: "wrap" },
                   children: [
                     f.jsx("a", {
-                      href: "https://t.me/peptideportaleth",
+                      href: "https://t.me/Peptide_meme",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: f.jsx("button", {
@@ -29530,7 +29530,7 @@ function WN() {
                       }),
                     }),
                     f.jsx("a", {
-                      href: "https://x.com/peptideeth",
+                      href: "https://x.com/Peptide_meme",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: f.jsxs("button", {
@@ -29733,7 +29733,7 @@ function WN() {
                 },
                 children: [
                   f.jsx(Hn, {
-                    href: "/ask-pep",
+                    href: "https://dexscreener.com/ethereum/0xcomingsoon",
                     children: f.jsxs("button", {
                       style: {
                         background: "black",
@@ -29771,12 +29771,12 @@ function WN() {
                             marginRight: 6,
                           },
                         }),
-                        "ask pep now",
+                        "Chart",
                       ],
                     }),
                   }),
                   f.jsx("a", {
-                    href: "#",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: f.jsx("button", {
@@ -38700,7 +38700,7 @@ function _L() {
                   className: "flex flex-wrap items-center justify-center gap-4",
                   children: [
                     f.jsx("a", {
-                      href: "https://t.me/peptideportaleth",
+                      href: "https://t.me/Peptide_meme",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: f.jsxs(vr, {
@@ -38714,7 +38714,7 @@ function _L() {
                       }),
                     }),
                     f.jsx("a", {
-                      href: "https://x.com/peptideeth",
+                      href: "https://x.com/Peptide_meme",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: f.jsxs(vr, {
@@ -39218,7 +39218,7 @@ function _L() {
               className: "flex justify-center gap-4 flex-wrap",
               children: [
                 f.jsx("a", {
-                  href: "https://t.me/peptideportaleth",
+                  href: "https://t.me/Peptide_meme",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   children: f.jsxs(vr, {
@@ -39231,7 +39231,7 @@ function _L() {
                   }),
                 }),
                 f.jsx("a", {
-                  href: "https://x.com/peptideeth",
+                  href: "https://x.com/Peptide_meme",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   children: f.jsxs(vr, {
@@ -41027,7 +41027,7 @@ function qL() {
                   },
                   children: [
                     f.jsx("a", {
-                      href: "/flywheel",
+                      href: "#",
                       children: f.jsx(W.button, {
                         whileHover: { y: -2, boxShadow: "0 5px 0 black" },
                         style: {
@@ -41047,7 +41047,7 @@ function qL() {
                       }),
                     }),
                     f.jsx("a", {
-                      href: "/launch#roadmap",
+                      href: "##roadmap",
                       children: f.jsx(W.button, {
                         whileHover: { y: -2, boxShadow: "0 5px 0 #e5e7eb" },
                         style: {
@@ -41125,7 +41125,7 @@ function WL() {
               children: "Add some peptides and come back here.",
             }),
             f.jsx("a", {
-              href: "/store",
+              href: "#",
               children: f.jsx(W.button, {
                 whileHover: { y: -2, boxShadow: "0 5px 0 black" },
                 style: {
@@ -41369,7 +41369,7 @@ function WL() {
                       )
                     ),
                     f.jsx("a", {
-                      href: "/store",
+                      href: "#",
                       style: { marginTop: 4 },
                       children: f.jsx("span", {
                         style: {
@@ -42708,7 +42708,7 @@ function o_() {
               children: "Nothing to checkout.",
             }),
             f.jsx("a", {
-              href: "/store",
+              href: "#",
               children: f.jsx("button", {
                 style: {
                   background: Bt,
@@ -43925,7 +43925,7 @@ function o_() {
                           },
                           children: [
                             f.jsx("a", {
-                              href: "/store",
+                              href: "#",
                               children: f.jsx(W.button, {
                                 whileHover: { y: -2 },
                                 style: {
@@ -45478,7 +45478,7 @@ function d_() {
                       },
                       children: [
                         f.jsx("a", {
-                          href: "/store",
+                          href: "#",
                           children: f.jsx(W.button, {
                             whileHover: {
                               y: -2,
@@ -45501,7 +45501,7 @@ function d_() {
                           }),
                         }),
                         f.jsx("a", {
-                          href: "/launch",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                           children: f.jsx(W.button, {
                             whileHover: { y: -2 },
                             style: {
@@ -45639,13 +45639,13 @@ function b_() {
             children: f.jsxs(JA, {
               children: [
                 f.jsx(_i, { path: "/", component: WN }),
-                f.jsx(_i, { path: "/ask-pep", component: yL }),
+                f.jsx(_i, { path: "#", component: yL }),
                 f.jsx(_i, { path: "/database", component: EL }),
-                f.jsx(_i, { path: "/launch", component: _L }),
-                f.jsx(_i, { path: "/store", component: qL }),
+                f.jsx(_i, { path: "#", component: _L }),
+                f.jsx(_i, { path: "#", component: qL }),
                 f.jsx(_i, { path: "/cart", component: WL }),
                 f.jsx(_i, { path: "/checkout", component: o_ }),
-                f.jsx(_i, { path: "/flywheel", component: d_ }),
+                f.jsx(_i, { path: "#", component: d_ }),
                 f.jsx(_i, { component: y_ }),
               ],
             }),

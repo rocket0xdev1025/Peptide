@@ -26275,7 +26275,7 @@ function I6() {
                 }),
               }),
               f.jsx(Hn, {
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4B57B5FdF84451AaA9387a408E6367A5f52291F1",
                 children: f.jsxs(W.span, {
                   whileHover: { scale: 1.05 },
                   style: {
@@ -26399,7 +26399,7 @@ function V6() {
             },
             children: [
               f.jsx(Hn, {
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4B57B5FdF84451AaA9387a408E6367A5f52291F1",
                 children: f.jsx("span", {
                   style: {
                     fontFamily: "'Patrick Hand', cursive",
@@ -28063,7 +28063,7 @@ function WN() {
                   },
                   children: [
                     f.jsx("a", {
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4B57B5FdF84451AaA9387a408E6367A5f52291F1",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: f.jsxs("button", {
@@ -29733,7 +29733,7 @@ function WN() {
                 },
                 children: [
                   f.jsx(Hn, {
-                    href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                    href: "https://dexscreener.com/ethereum/0x4B57B5FdF84451AaA9387a408E6367A5f52291F1",
                     children: f.jsxs("button", {
                       style: {
                         background: "black",
@@ -29776,7 +29776,7 @@ function WN() {
                     }),
                   }),
                   f.jsx("a", {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4B57B5FdF84451AaA9387a408E6367A5f52291F1",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: f.jsx("button", {
@@ -45501,7 +45501,7 @@ function d_() {
                           }),
                         }),
                         f.jsx("a", {
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x4B57B5FdF84451AaA9387a408E6367A5f52291F1",
                           children: f.jsx(W.button, {
                             whileHover: { y: -2 },
                             style: {

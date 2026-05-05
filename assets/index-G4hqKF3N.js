@@ -27063,7 +27063,7 @@ function D1(e) {
 }
 const fT = "/wolverine-pep.png",
   dT = "/saiyan-pep.png",
-  P1 = "0x000...0000 (TBA)",
+  P1 = "0x4B57B5FdF84451AaA9387a408E6367A5f52291F1",
   Fe = "'Patrick Hand', cursive",
   mt = "Inter, -apple-system, sans-serif",
   Ze = "'JetBrains Mono', monospace",
@@ -38508,7 +38508,7 @@ const PL = ym(
   );
 vr.displayName = "Button";
 const NL = "/buy-pep-mascot.png",
-  Qh = "0x000...0000 (TBA)",
+  Qh = "0x4B57B5FdF84451AaA9387a408E6367A5f52291F1",
   zL = [
     {
       label: "Total Supply",
